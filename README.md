@@ -8,7 +8,7 @@ JSP based Dynamic News Portal
 
 
 
-[Watch the video](https://vimeo.com/283187496)]
+[Watch the video](https://vimeo.com/283187496)
 
 
 
