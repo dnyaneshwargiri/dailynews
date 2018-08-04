@@ -8,7 +8,7 @@ JSP based Dynamic News Portal
 
 
 
-[Watch the video](https://github.com/dnyaneshwargiri/dailynews/blob/master/1.png)](https://vimeo.com/283187496)
+[Watch the video](https://vimeo.com/283187496)]
 
 
 
