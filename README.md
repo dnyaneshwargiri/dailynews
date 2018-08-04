@@ -3,7 +3,7 @@
 
 
 
-JSP based Dynamic News Portal
+JSP based Dynamic News Portal using Jsoup
 
 
 
